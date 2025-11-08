@@ -1,2 +1,2 @@
-# claude-monet
-Monet: The specification language for Claude Code
+# Monet
+The specification language for Claude Code
